@@ -50,7 +50,7 @@
 - [nord-xfce-terminal-0](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/nord-xfce-terminal-0.1.0-1-any.pkg.tar.zst)
 - [nordic-bluish-accent-standard-buttons-theme-2](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/nordic-bluish-accent-standard-buttons-theme-2.0.0-1-x86_64.pkg.tar.zst)
 - [nordzy-cursors-0](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/nordzy-cursors-0.6.0-1-any.pkg.tar.zst)
-- [nvidia-helper-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/nvidia-helper-1.0-1-x86_64.pkg.tar.zst)
+- [nvidia-helper-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/nvidia-helper-1.1-1-x86_64.pkg.tar.zst)
 - [nvidia-pacman-hook-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/nvidia-pacman-hook-1.0.0-1-any.pkg.tar.zst)
 - [nvpak-1-0-any](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/nvpak-1-0-any.pkg.tar.zst)
 - [openbox-arc-git-20230530](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/openbox-arc-git-20230530.r21.5ebdb7f-1-any.pkg.tar.zst)
