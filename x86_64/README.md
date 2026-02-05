@@ -22,7 +22,7 @@
 - [devtools-riscv64-1:2](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/devtools-riscv64-1:2.0.0+patch1-1-x86_64.pkg.tar.zst)
 - [dnsch-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/dnsch-1.9-1-any.pkg.tar.zst)
 - [dracula-gtk-theme-v3](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/dracula-gtk-theme-v3.0-2-any.pkg.tar.zst)
-- [envycontrol-3](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/envycontrol-3.5.2-1-any.pkg.tar.zst)
+- [envycontrol-3](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/envycontrol-3.5.2-2-any.pkg.tar.zst)
 - [estedad-fonts-7](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/estedad-fonts-7.2-1-any.pkg.tar.zst)
 - [extension-manager-0](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/extension-manager-0.6.4-1-x86_64.pkg.tar.zst)
 - [fira-code-font-1-0-x86_64](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/fira-code-font-1-0-x86_64.pkg.tar.zst)
