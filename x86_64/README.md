@@ -4,7 +4,7 @@
 - [arad-fonts-2](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/arad-fonts-2.1.0-1-any.pkg.tar.zst)
 - [arc-gtk-theme-20221218-2-any](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/arc-gtk-theme-20221218-2-any.pkg.tar.zst)
 - [arc-solid-gtk-theme-20221218-2-any](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/arc-solid-gtk-theme-20221218-2-any.pkg.tar.zst)
-- [archinstall-rs-r160](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/archinstall-rs-r160.7b84ece-1-x86_64.pkg.tar.zst)
+- [archinstall-rs-r161](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/archinstall-rs-r161.cdf4a92-1-x86_64.pkg.tar.zst)
 - [archiso-99-1-any](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/archiso-99-1-any.pkg.tar.zst)
 - [arkdep-2025](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/arkdep-2025.03.22-1-any.pkg.tar.zst)
 - [bearings-bin-1-0-x86_64](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/bearings-bin-1-0-x86_64.pkg.tar.zst)
