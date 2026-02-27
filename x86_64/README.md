@@ -68,6 +68,7 @@
 - [parch-branding-2024](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-branding-2024.07.17-0-any.pkg.tar.zst)
 - [parch-budgie-1-0-any](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-budgie-1-0-any.pkg.tar.zst)
 - [parch-community-backgrounds-2-0-any](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-community-backgrounds-2-0-any.pkg.tar.zst)
+- [parch-config-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-config-1.0-1-any.pkg.tar.zst)
 - [parch-dorood-0](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-dorood-0.1.0-1-x86_64.pkg.tar.zst)
 - [parch-emoji-ios-5-0-any](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-emoji-ios-5-0-any.pkg.tar.zst)
 - [parch-emoji-ios-arad-5-0-any](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-emoji-ios-arad-5-0-any.pkg.tar.zst)
