@@ -104,7 +104,7 @@
 - [parchlinux-keyring-2025-3-any](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parchlinux-keyring-2025-3-any.pkg.tar.zst)
 - [parchlinux-keyring-2025-8-any](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parchlinux-keyring-2025-8-any.pkg.tar.zst)
 - [paru-2](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/paru-2.1.0-4-x86_64.pkg.tar.zst)
-- [pdm-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/pdm-1.0.0-1-any.pkg.tar.zst)
+- [pdm-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/pdm-1.0.1-2-any.pkg.tar.zst)
 - [penc-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/penc-1.0.2-1-x86_64.pkg.tar.zst)
 - [pfetch-r434](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/pfetch-r434.ce1d56e-1-any.pkg.tar.zst)
 - [python-manimpango-0](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/python-manimpango-0.6.0-2-x86_64.pkg.tar.zst)
