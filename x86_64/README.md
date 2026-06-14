@@ -101,6 +101,7 @@
 - [parch-zram-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-zram-1.0-1-any.pkg.tar.zst)
 - [parch-zram-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-zram-1.0-5-any.pkg.tar.zst)
 - [parch-zsh-config-2](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-zsh-config-2.0-1-any.pkg.tar.zst)
+- [parchdroid-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parchdroid-1.0.0-1-any.pkg.tar.zst)
 - [parchlinux-keyring-2025-3-any](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parchlinux-keyring-2025-3-any.pkg.tar.zst)
 - [parchlinux-keyring-2025-8-any](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parchlinux-keyring-2025-8-any.pkg.tar.zst)
 - [paru-2](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/paru-2.1.0-4-x86_64.pkg.tar.zst)
