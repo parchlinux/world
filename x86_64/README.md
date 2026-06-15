@@ -96,7 +96,7 @@
 - [parch-plymouth-3-5-any](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-plymouth-3-5-any.pkg.tar.zst)
 - [parch-plymouth-waves-1-0-any](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-plymouth-waves-1-0-any.pkg.tar.zst)
 - [parch-printer-1-0-any](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-printer-1-0-any.pkg.tar.zst)
-- [parch-wallpapers-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-wallpapers-1.7-0-any.pkg.tar.zst)
+- [parch-wallpapers-2-0-any](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-wallpapers-2-0-any.pkg.tar.zst)
 - [parch-xfce-dotfile-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-xfce-dotfile-1.0.0-1-any.pkg.tar.zst)
 - [parch-zram-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-zram-1.0-1-any.pkg.tar.zst)
 - [parch-zram-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-zram-1.0-5-any.pkg.tar.zst)
