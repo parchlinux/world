@@ -47,7 +47,7 @@
 - [mkinitcpio-openswap-0](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/mkinitcpio-openswap-0.1.0-3-any.pkg.tar.zst)
 - [morewaita-icon-theme-git-48](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/morewaita-icon-theme-git-48.2.r0.g50cfa41-1-any.pkg.tar.zst)
 - [mpvpaper-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/mpvpaper-1.4-1-x86_64.pkg.tar.zst)
-- [namban-0](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/namban-0.3-7-any.pkg.tar.zst)
+- [namban-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/namban-1.1.0.beta.1-2-any.pkg.tar.zst)
 - [nautilus-extensions-clipboard2file-1-1-any](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/nautilus-extensions-clipboard2file-1-1-any.pkg.tar.zst)
 - [nautilus-open-in-ptyxis-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/nautilus-open-in-ptyxis-1.0.0-1-any.pkg.tar.zst)
 - [neofetch-git-7](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/neofetch-git-7.1.0.r172.g2cbd8e44-1-any.pkg.tar.zst)
