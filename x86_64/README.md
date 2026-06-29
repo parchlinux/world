@@ -113,6 +113,7 @@
 - [qogir-gtk-theme-2024](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/qogir-gtk-theme-2024.05.22-1-any.pkg.tar.zst)
 - [qogir-icon-theme-2023](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/qogir-icon-theme-2023.06.05-1-any.pkg.tar.zst)
 - [saaghar-3](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/saaghar-3.0.0-1-any.pkg.tar.zst)
+- [shelly-2](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/shelly-2.4.1.0-1-x86_64.pkg.tar.zst)
 - [simple-reflector-1-0-any](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/simple-reflector-1-0-any.pkg.tar.zst)
 - [spaceship-prompt-4](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/spaceship-prompt-4.17.0-1-any.pkg.tar.zst)
 - [sticky-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/sticky-1.16-1-any.pkg.tar.zst)
