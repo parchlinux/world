@@ -73,7 +73,7 @@
 - [parch-emoji-ios-estedad-5-0-any](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-emoji-ios-estedad-5-0-any.pkg.tar.zst)
 - [parch-emoji-ios-mikhak-5-0-any](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-emoji-ios-mikhak-5-0-any.pkg.tar.zst)
 - [parch-gnome-backgrounds-2-0-any](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-gnome-backgrounds-2-0-any.pkg.tar.zst)
-- [parch-gnome-meta-0](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-gnome-meta-0.4-1-any.pkg.tar.zst)
+- [parch-gnome-meta-0](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-gnome-meta-0.6-1-any.pkg.tar.zst)
 - [parch-grub-1-1-any](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-grub-1-1-any.pkg.tar.zst)
 - [parch-grub-theme-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-grub-theme-1.0.1-6-any.pkg.tar.zst)
 - [parch-hypr-2-0-any](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-hypr-2-0-any.pkg.tar.zst)
