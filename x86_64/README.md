@@ -40,7 +40,7 @@
 - [gnome-software-packagekit-plugin-48](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/gnome-software-packagekit-plugin-48.0+r22+g8f40a2f78-1-x86_64.pkg.tar.zst)
 - [loutos-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/loutos-1.1.0-1-x86_64.pkg.tar.zst)
 - [mikhak-fonts-3](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/mikhak-fonts-3.2-1-any.pkg.tar.zst)
-- [mirrorman-0](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/mirrorman-0.4.0-1-x86_64.pkg.tar.zst)
+- [mirrorman-0](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/mirrorman-0.4.1-1-x86_64.pkg.tar.zst)
 - [mkinitcpio-openswap-0](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/mkinitcpio-openswap-0.1.0-3-any.pkg.tar.zst)
 - [morewaita-icon-theme-git-48](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/morewaita-icon-theme-git-48.2.r0.g50cfa41-1-any.pkg.tar.zst)
 - [mpvpaper-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/mpvpaper-1.4-1-x86_64.pkg.tar.zst)
