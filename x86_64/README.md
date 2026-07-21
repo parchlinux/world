@@ -30,7 +30,7 @@
 - [fira-code-font-1-0-x86_64](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/fira-code-font-1-0-x86_64.pkg.tar.zst)
 - [fira-code-mono-1-0-x86_64](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/fira-code-mono-1-0-x86_64.pkg.tar.zst)
 - [galaxybudsclient-bin-4](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/galaxybudsclient-bin-4.5.3-6-x86_64.pkg.tar.zst)
-- [gamehub-0](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/gamehub-0.1.0-1-x86_64.pkg.tar.zst)
+- [gamehub-0](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/gamehub-0.1.1-1-x86_64.pkg.tar.zst)
 - [gapless-3](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/gapless-3.9.2-1-x86_64.pkg.tar.zst)
 - [gnome-network-displays-0](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/gnome-network-displays-0.97.0-1-x86_64.pkg.tar.zst)
 - [gnome-parch-3](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/gnome-parch-3.1.0-1-any.pkg.tar.zst)
