@@ -108,6 +108,7 @@
 - [pdm-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/pdm-1.0.1-2-any.pkg.tar.zst)
 - [penc-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/penc-1.0.2-1-x86_64.pkg.tar.zst)
 - [pfetch-r434](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/pfetch-r434.ce1d56e-1-any.pkg.tar.zst)
+- [pordle-0](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/pordle-0.1-1-x86_64.pkg.tar.zst)
 - [python-manimpango-0](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/python-manimpango-0.6.0-2-x86_64.pkg.tar.zst)
 - [qogir-cursor-theme-git-r292](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/qogir-cursor-theme-git-r292.91880625-1-any.pkg.tar.zst)
 - [qogir-gtk-theme-2024](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/qogir-gtk-theme-2024.05.22-1-any.pkg.tar.zst)
