@@ -118,6 +118,7 @@
 - [parchlinux-keyring-2025-8-any](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parchlinux-keyring-2025-8-any.pkg.tar.zst)
 - [paru-2](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/paru-2.1.0-4-x86_64.pkg.tar.zst)
 - [pdm-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/pdm-1.0.1-2-any.pkg.tar.zst)
+- [pdm-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/pdm-1.1.0-1-any.pkg.tar.zst)
 - [penc-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/penc-1.0.2-1-x86_64.pkg.tar.zst)
 - [pfetch-r434](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/pfetch-r434.ce1d56e-1-any.pkg.tar.zst)
 - [pordle-0](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/pordle-0.1.1-1-x86_64.pkg.tar.zst)
