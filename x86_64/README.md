@@ -60,6 +60,7 @@
 - [packet-0](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/packet-0.5.4-1-x86_64.pkg.tar.zst)
 - [paclan-0](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/paclan-0.1.4-1-x86_64.pkg.tar.zst)
 - [pacsea-0](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/pacsea-0.3.0-2-x86_64.pkg.tar.zst)
+- [pacu-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/pacu-1.0.0.r3.g1472ae8-1-x86_64.pkg.tar.zst)
 - [parch-anime-backgrounds-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-anime-backgrounds-1.0-1-any.pkg.tar.zst)
 - [parch-base-0](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-base-0.2-1-any.pkg.tar.zst)
 - [parch-base-config-0](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-base-config-0.1.0-3-any.pkg.tar.zst)
