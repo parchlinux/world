@@ -11,7 +11,7 @@
 - [blackarch-mirrors-1-0-any](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/blackarch-mirrors-1-0-any.pkg.tar.zst)
 - [blackarch-mirrors-1-5-any](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/blackarch-mirrors-1-5-any.pkg.tar.zst)
 - [calamares-3](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/calamares-3.4.3-6-any.pkg.tar.zst)
-- [calamares-parch-8-12-any](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/calamares-parch-8-12-any.pkg.tar.zst)
+- [calamares-parch-8-13-any](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/calamares-parch-8-13-any.pkg.tar.zst)
 - [carburetor-5](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/carburetor-5.1.1-1-any.pkg.tar.zst)
 - [chaotic-aur-1-0-any](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/chaotic-aur-1-0-any.pkg.tar.zst)
 - [ckbcomp-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/ckbcomp-1.221-1-any.pkg.tar.zst)
