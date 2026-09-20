@@ -81,7 +81,7 @@
 - [parch-grub-theme-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-grub-theme-1.0.0-1-any.pkg.tar.zst)
 - [parch-hypr-2-0-any](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-hypr-2-0-any.pkg.tar.zst)
 - [parch-hyprland-cheatsheet-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-hyprland-cheatsheet-1.0-1-any.pkg.tar.zst)
-- [parch-hyprland-config-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-hyprland-config-1.3-1-any.pkg.tar.zst)
+- [parch-hyprland-config-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-hyprland-config-1.4-1-any.pkg.tar.zst)
 - [parch-iran-backgrounds-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-iran-backgrounds-1.0.5-1-any.pkg.tar.zst)
 - [parch-iran-backgrounds-kde-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-iran-backgrounds-kde-1.0.5-1-any.pkg.tar.zst)
 - [parch-iso-writer-0](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-iso-writer-0.1.3-1-x86_64.pkg.tar.zst)
