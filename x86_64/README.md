@@ -138,7 +138,7 @@
 - [qogir-icon-theme-2023](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/qogir-icon-theme-2023.06.05-1-any.pkg.tar.zst)
 - [qt6ct-kde-0](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/qt6ct-kde-0.11-8-x86_64.pkg.tar.zst)
 - [saaghar-3](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/saaghar-3.0.0-1-any.pkg.tar.zst)
-- [sddm-noctalia-parch-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/sddm-noctalia-parch-1.0-1-any.pkg.tar.zst)
+- [sddm-noctalia-parch-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/sddm-noctalia-parch-1.1-1-any.pkg.tar.zst)
 - [shelly-3](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/shelly-3.0.3-1-x86_64.pkg.tar.zst)
 - [shelly-flatpak-backend-bin-3](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/shelly-flatpak-backend-bin-3.0.3-1-x86_64.pkg.tar.zst)
 - [simple-reflector-1-0-any](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/simple-reflector-1-0-any.pkg.tar.zst)
