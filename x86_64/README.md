@@ -119,7 +119,7 @@
 - [parch-wallpaper-parch2-2](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-wallpaper-parch2-2.5-1-any.pkg.tar.zst)
 - [parch-wallpaper-sketchy-background-2](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-wallpaper-sketchy-background-2.5-1-any.pkg.tar.zst)
 - [parch-wallpapers-2](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-wallpapers-2.5-1-any.pkg.tar.zst)
-- [parch-welcome-0](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-welcome-0.1.0.r1.g5013afb-1-x86_64.pkg.tar.zst)
+- [parch-welcome-0](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-welcome-0.1.0.r4.g5fc6e15-1-x86_64.pkg.tar.zst)
 - [parch-xfce-dotfile-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-xfce-dotfile-1.0.0-1-any.pkg.tar.zst)
 - [parch-zram-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-zram-1.0-1-any.pkg.tar.zst)
 - [parch-zram-1](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/parch-zram-1.0-5-any.pkg.tar.zst)
