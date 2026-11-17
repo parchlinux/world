@@ -34,7 +34,7 @@
 - [gamehub-0](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/gamehub-0.3.0-1-x86_64.pkg.tar.zst)
 - [gapless-3](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/gapless-3.9.2-1-x86_64.pkg.tar.zst)
 - [gnome-network-displays-0](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/gnome-network-displays-0.97.0-1-x86_64.pkg.tar.zst)
-- [gnome-parch-3](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/gnome-parch-3.1.0-1-any.pkg.tar.zst)
+- [gnome-parch-4](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/gnome-parch-4.0.0-1-any.pkg.tar.zst)
 - [gnome-shell-extension-persian-calendar-31-1-any](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/gnome-shell-extension-persian-calendar-31-1-any.pkg.tar.zst)
 - [gnome-shell-extension-sanad-2](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/gnome-shell-extension-sanad-2.3-1-any.pkg.tar.zst)
 - [gnome-shell-extension-ubuntu-dock-84ubuntu1-1-any](https://git.parchlinux.com/repo/ppr/-/raw/main/x86_64/gnome-shell-extension-ubuntu-dock-84ubuntu1-1-any.pkg.tar.zst)
